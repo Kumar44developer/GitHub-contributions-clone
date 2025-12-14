@@ -41,6 +41,8 @@ h1{
 }
 .activity:hover{
     transition-duration: 0s;
+    overflow: hidden;
+}
    
 
 
