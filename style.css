@@ -11,3 +11,6 @@ body{
     min-height: 100vh;
      background-color: #881af1;
 }
+
+h1{
+    display: flex;
