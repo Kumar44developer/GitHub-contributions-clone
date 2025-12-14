@@ -34,6 +34,8 @@ h1{
     box-shadow: 0 0 2px rgb(151,151,151);
     margin: 5px;
     height: 35px;
+    width: 35px;
+    transition: 3s ease;
 
 
 
