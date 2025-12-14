@@ -29,7 +29,9 @@ h1{
     flex-wrap: wrap;
     max-width: 420px;
 }
-
+.activity{
+    background-color: rgb(214,214,214);
+    box-shadow: 0 0 2px rgb(151,151,151);
 
 
 
