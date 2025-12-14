@@ -39,7 +39,9 @@ h1{
     overflow: hidden;
     border-radius: 2px;
 }
-
+.activity:hover{
+    transition-duration: 0s;
+   
 
 
 
