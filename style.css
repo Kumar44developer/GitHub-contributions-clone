@@ -36,6 +36,9 @@ h1{
     height: 35px;
     width: 35px;
     transition: 3s ease;
+    overflow: hidden;
+    border-radius: 2px;
+}
 
 
 
