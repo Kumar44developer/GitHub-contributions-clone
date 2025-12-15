@@ -26,3 +26,6 @@ const numberOfSquares = 99;
 for(let i = 0; i < numberOfSquares; i++)
     const activity = document.createElement("div");
     activity.classList.add("activity");
+  activity.addEventListener("mouseover",()=>{
+        addColor(activity);
+    });
