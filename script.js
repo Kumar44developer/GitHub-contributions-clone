@@ -22,3 +22,4 @@ let greenColorCodes2 = [
     "#400ddd",
     
 ];
+const numberOfSquares = 99;
