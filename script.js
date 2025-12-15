@@ -15,4 +15,6 @@ let greenColorCodes = [
      "#00C957",
 ];
  
-
+let greenColorCodes2 = [
+    "#00FC00",
+    "#782222",
