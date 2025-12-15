@@ -10,5 +10,7 @@ let greenColorCodes = [
     "#5DFC0A",
     "#4CBB17",
     "#4AC948",
+    "#00EE00",
+    "#33FF33",
  
 
