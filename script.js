@@ -23,3 +23,4 @@ let greenColorCodes2 = [
     
 ];
 const numberOfSquares = 99;
+for(let i = 0; i < numberOfSquares; i++)
