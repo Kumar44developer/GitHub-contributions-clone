@@ -40,6 +40,9 @@ activity.addEventListener("mouseout",()=>{
 
 function addColor(squaresTile){
     const gettingColor = greenColors();
+     squaresTile.style.backgroundColor = gettingColor;
+    squaresTile.style.boxshadow = ` 0 0 2px ${gettingColor}, 0 0 10px ${gettingColor}`;
+}
 
 
 
