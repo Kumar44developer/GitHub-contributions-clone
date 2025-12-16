@@ -48,6 +48,9 @@ function addColor(squaresTile){
 
 function stickColor(squaresTile){
     const gettingColor = greenColors2();
+    squaresTile.style.backgroundColor = gettingColor;
+    squaresTile.style.boxshadow = ` 0 0 2px ${gettingColor}, 0 0 10px ${gettingColor}`;
+}
 
 
 
