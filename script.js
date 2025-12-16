@@ -46,6 +46,8 @@ function addColor(squaresTile){
 
 
 
+function stickColor(squaresTile){
+    const gettingColor = greenColors2();
 
 
 
