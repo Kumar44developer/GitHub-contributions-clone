@@ -56,5 +56,9 @@ function greenColors(){
     return greenColorCodes[Math.floor(Math.random() * greenColorCodes.length)]
 }
 
+function greenColors2(){
+    return greenColorCodes2[Math.floor(Math.random() * greenColorCodes2.length)]
+}
+
 
 
