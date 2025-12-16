@@ -32,3 +32,14 @@ for(let i = 0; i < numberOfSquares; i++)
 activity.addEventListener("mouseout",()=>{
         addColor(activity);
     });
+
+
+    container.appendChild(activity);
+
+}
+
+
+
+
+
+
