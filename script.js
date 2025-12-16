@@ -38,6 +38,11 @@ activity.addEventListener("mouseout",()=>{
 
 }
 
+function addColor(squaresTile){
+    const gettingColor = greenColors();
+
+
+
 
 
 
