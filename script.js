@@ -52,7 +52,9 @@ function stickColor(squaresTile){
     squaresTile.style.boxshadow = ` 0 0 2px ${gettingColor}, 0 0 10px ${gettingColor}`;
 }
 
-
+function greenColors(){
+    return greenColorCodes[Math.floor(Math.random() * greenColorCodes.length)]
+}
 
 
 
