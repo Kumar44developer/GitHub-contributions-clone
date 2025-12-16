@@ -29,3 +29,6 @@ for(let i = 0; i < numberOfSquares; i++)
   activity.addEventListener("mouseover",()=>{
         addColor(activity);
     });
+activity.addEventListener("mouseout",()=>{
+        addColor(activity);
+    });
