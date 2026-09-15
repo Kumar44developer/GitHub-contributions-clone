@@ -29,10 +29,10 @@ An interactive, responsive hoverboard visualizer inspired by GitHub's signature 
 
 ```
 GitHub-contributions-clone/
-├── index.html       # Markup skeleton hosting the container wrapper
-├── style.css        # GitHub dark theme, grid framing, tile sizing, and transitions
-├── script.js        # Dynamic tile instantiation and hover interaction logic
-└── README.md        # Project documentation
+├── index.html       
+├── style.css       
+├── script.js       
+└── README.md     
 ```
 
 ---
